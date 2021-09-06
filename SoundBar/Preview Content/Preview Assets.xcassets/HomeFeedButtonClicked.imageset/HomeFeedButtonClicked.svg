@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-LikeButton_35">
+      <rect width="33" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="LikeButton_35" data-name="LikeButton – 35" clip-path="url(#clip-LikeButton_35)">
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="2" height="31" rx="1" transform="translate(15.5 1)" fill="#ffd442"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="2" height="16" rx="1" transform="translate(23.5 9)" fill="#ffd442"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="2" height="16" rx="1" transform="translate(7.5 9)" fill="#ffd442"/>
+  </g>
+</svg>

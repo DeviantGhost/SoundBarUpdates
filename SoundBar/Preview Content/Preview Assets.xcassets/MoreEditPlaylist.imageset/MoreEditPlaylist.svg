@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MoreEditPlaylist">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MoreEditPlaylist" clip-path="url(#clip-MoreEditPlaylist)">
+    <g id="Icon_feather-edit" data-name="Icon feather-edit" transform="translate(3 3.181)">
+      <path id="Path_1657" data-name="Path 1657" d="M11.011,6H4.78A1.78,1.78,0,0,0,3,7.78V20.243a1.78,1.78,0,0,0,1.78,1.78H17.243a1.78,1.78,0,0,0,1.78-1.78V14.011" transform="translate(0 -1.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1658" data-name="Path 1658" d="M21.786,3.4a1.977,1.977,0,0,1,2.8,2.8l-8.854,8.854L12,15.979l.932-3.728Z" transform="translate(-4.161)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

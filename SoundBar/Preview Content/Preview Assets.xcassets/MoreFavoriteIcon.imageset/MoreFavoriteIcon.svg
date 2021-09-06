@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MoreFavoriteIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MoreFavoriteIcon" clip-path="url(#clip-MoreFavoriteIcon)">
+    <path id="Path_1647" data-name="Path 1647" d="M2160,4780.592v-13.134h10.756v13.134l-5.216-2.785Z" transform="translate(-2150.5 -4758.958)" fill="none" stroke="#fff" stroke-width="1.25"/>
+  </g>
+</svg>

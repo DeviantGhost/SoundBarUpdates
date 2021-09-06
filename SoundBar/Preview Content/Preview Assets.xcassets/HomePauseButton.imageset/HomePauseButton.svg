@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-HomePauseButton">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="HomePauseButton" clip-path="url(#clip-HomePauseButton)">
+    <circle id="Ellipse_548" data-name="Ellipse 548" cx="17.5" cy="17.5" r="17.5" transform="translate(5 5)" opacity="0.3"/>
+    <path id="Icon_ionic-ios-play" data-name="Icon ionic-ios-play" d="M9,7.121V20.662a.349.349,0,0,0,.522.321l10.734-6.77a.384.384,0,0,0,0-.638L9.522,6.8A.345.345,0,0,0,9,7.121Z" transform="translate(9 8.249)" fill="#fff"/>
+  </g>
+</svg>

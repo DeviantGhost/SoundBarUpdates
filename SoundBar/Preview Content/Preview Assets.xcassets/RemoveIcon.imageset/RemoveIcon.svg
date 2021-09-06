@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-RemoveIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="RemoveIcon" clip-path="url(#clip-RemoveIcon)">
+    <g id="Ellipse_515" data-name="Ellipse 515" transform="translate(6 6)" fill="none" stroke="red" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_6649" data-name="Rectangle 6649" width="10" height="1" rx="0.5" transform="translate(10 14.5)" fill="red"/>
+  </g>
+</svg>

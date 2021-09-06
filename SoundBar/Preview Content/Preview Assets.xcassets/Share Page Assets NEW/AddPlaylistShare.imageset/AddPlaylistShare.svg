@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-AddPlaylistShare">
+      <rect width="40" height="40"/>
+    </clipPath>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+  </defs>
+  <g id="AddPlaylistShare" clip-path="url(#clip-AddPlaylistShare)">
+    <g id="Group_2185" data-name="Group 2185">
+      <g id="Group_2181" data-name="Group 2181">
+        <g id="Group_2022" data-name="Group 2022">
+          <circle id="Ellipse_304" data-name="Ellipse 304" cx="20" cy="20" r="20" fill="#121212"/>
+        </g>
+      </g>
+      <g id="Group_2800" data-name="Group 2800" transform="translate(4 6)">
+        <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(4 7)" fill="#fff" stroke="#fff" stroke-width="1">
+          <rect width="21" height="1" stroke="none"/>
+          <rect x="0.5" y="0.5" width="20" fill="none"/>
+        </g>
+        <g id="Subtraction_10" data-name="Subtraction 10" transform="translate(4 13)" fill="#fff">
+          <path d="M10,1H0V0H10V1Z" stroke="none"/>
+          <path d="M 10 1 L 9.999079704284668 1 L 0 1 L 0 0.0004900000058114529 L 10 0 L 10 0.999019980430603 L 10 1 Z" stroke="none" fill="#fff"/>
+        </g>
+        <g id="Subtraction_9" data-name="Subtraction 9" transform="translate(4 19)" fill="#fff">
+          <path d="M11,1H0V0H11V1Z" stroke="none"/>
+          <path d="M 11 1 L 10.99899005889893 1 L -8.881784197001252e-16 1 L -8.881784197001252e-16 0 L 11 0 L 11 0.999019980430603 L 11 1 Z" stroke="none" fill="#fff"/>
+        </g>
+        <g id="Group_2788" data-name="Group 2788" transform="translate(17.42 10.14)">
+          <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(5.382 0) rotate(90)" fill="#fff" stroke="#fff" stroke-width="1">
+            <rect id="fill" width="9.936" height="0.828" stroke="none"/>
+            <path d="M0,0.32801008224487305h9.936120986938477M9.436120986938477,0v0.828010082244873M9.936120986938477,0.5h-9.936120986938477M0.5,0.828010082244873v-0.828010082244873" fill="none" clip-path="url(#clip)"/>
+          </g>
+          <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(0 4.554)" fill="#fff" stroke="#fff" stroke-width="1">
+            <rect id="fill-2" width="9.936" height="0.828" stroke="none"/>
+            <path d="M0,0.32801008224487305h9.936120986938477M9.436120986938477,0v0.828010082244873M9.936120986938477,0.5h-9.936120986938477M0.5,0.828010082244873v-0.828010082244873" fill="none" clip-path="url(#clip-2)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

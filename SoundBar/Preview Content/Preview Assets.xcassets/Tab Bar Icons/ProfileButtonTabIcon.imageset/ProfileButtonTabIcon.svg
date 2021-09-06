@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-ProfileButtonTabIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="ProfileButtonTabIcon" clip-path="url(#clip-ProfileButtonTabIcon)">
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M10.375,11.857A5.928,5.928,0,1,0,4.446,5.928,5.928,5.928,0,0,0,10.375,11.857Zm4.15,1.482h-.773a8.062,8.062,0,0,1-6.753,0H6.225A6.226,6.226,0,0,0,0,19.564V21.49a2.224,2.224,0,0,0,2.223,2.223h16.3a2.224,2.224,0,0,0,2.223-2.223V19.564A6.226,6.226,0,0,0,14.524,13.339Z" transform="translate(4.625 3.143)" fill="#fff"/>
+  </g>
+</svg>

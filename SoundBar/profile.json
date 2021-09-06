@@ -1,0 +1,267 @@
+{
+    "profile_details": [{
+        "user_id": 1,
+        "profile_header": {
+            "cover_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fcover-dababy?alt=media&token=7f897f38-1c39-4d40-905b-8c5d5dccf130",
+            "profile_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fprof-dababy?alt=media&token=086326c1-9169-4f69-bc23-7b6a0cdb80fb",
+            "username": "@dababyofficial",
+            "followers_count": "2.2M",
+            "following_count": "342",
+            "likes_count": "1M",
+            "bio": "NEW MUSIC VIDEO CLICK THE LINK",
+            "bio_link": "www.youtube.com/watch?v"
+        },
+        "other_artist": true,
+        "profile_music": {
+            "user_tracks": [{
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "Rockstar (feat. Roddy Ricch)",
+                    "listen_count": "22M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "VIBEZ",
+                    "listen_count": "18M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                    "song_name": "Babysitter (feat. Offset)",
+                    "listen_count": "14M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "Bop",
+                    "listen_count": "17M"
+                },
+                {
+                    "image_link": "https://static.billboard.com/files/media/DaBaby-press-by-Sheldon-Kearse-bb3-2019-billboard-1548-768x433.jpg",
+                    "song_name": "City",
+                    "listen_count": "12M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "TOES",
+                    "listen_count": "20M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                    "song_name": "Suge",
+                    "listen_count": "18M"
+                },
+                {
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "Blame It on Baby",
+                    "listen_count": "16M"
+                },
+                {
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "SAD SH*T",
+                    "listen_count": "8M"
+                },
+                {
+                    "image_link": "https://static.billboard.com/files/media/dababy-South-Coast-Music-Group-2019-billboard-1548-1024x677.jpg",
+                    "song_name": "Billion Dollar Baby",
+                    "listen_count": "7M"
+                }
+            ]
+        }
+    },
+    {
+        "user_id": 1,
+        "profile_header": {
+            "cover_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fcover-dababy?alt=media&token=7f897f38-1c39-4d40-905b-8c5d5dccf130",
+            "profile_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fprof-dababy?alt=media&token=086326c1-9169-4f69-bc23-7b6a0cdb80fb",
+            "username": "@dababyofficial",
+            "followers_count": "2.2M",
+            "following_count": "342",
+            "likes_count": "1M",
+            "bio": "NEW MUSIC VIDEO CLICK THE LINK",
+            "bio_link": "www.youtube.com/watch?v"
+        },
+        "other_artist": true,
+        "profile_music": {
+            "user_tracks": []
+        }
+    },
+    {
+        "user_id": 1,
+        "profile_header": {
+            "cover_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fcover-dababy?alt=media&token=7f897f38-1c39-4d40-905b-8c5d5dccf130",
+            "profile_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fprof-dababy?alt=media&token=086326c1-9169-4f69-bc23-7b6a0cdb80fb",
+            "username": "@dababyofficial",
+            "followers_count": "2.2M",
+            "following_count": "342",
+            "likes_count": "1M",
+            "bio": "NEW MUSIC VIDEO CLICK THE LINK",
+            "bio_link": "www.youtube.com/watch?v"
+        },
+        "other_artist": false,
+        "profile_music": {
+            "user_playlists": {
+                "playlists": [{
+                        "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                        "playlist_name": "Darty Vibes"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "playlist_name": "Chill Tunes"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                        "playlist_name": "Party Playlist"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "playlist_name": "Dance Mix"
+                    },
+                    {
+                        "image_link": "https://static.billboard.com/files/media/DaBaby-press-by-Sheldon-Kearse-bb3-2019-billboard-1548-768x433.jpg",
+                        "playlist_name": "Throwback Hits"
+                    }
+                ],
+                "favorites": []
+            }
+        }
+    },
+    {
+        "user_id": 1,
+        "profile_header": {
+            "cover_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fcover-dababy?alt=media&token=7f897f38-1c39-4d40-905b-8c5d5dccf130",
+            "profile_link": "https://firebasestorage.googleapis.com/v0/b/soundbar-3d263.appspot.com/o/userProfileImages%2Fdababy%2Fprof-dababy?alt=media&token=086326c1-9169-4f69-bc23-7b6a0cdb80fb",
+            "username": "@dababyofficial",
+            "followers_count": "2.2M",
+            "following_count": "342",
+            "likes_count": "1M",
+            "bio": "NEW MUSIC VIDEO CLICK THE LINK",
+            "bio_link": "www.youtube.com/watch?v"
+        },
+        "other_artist": false,
+        "profile_music": {
+            "user_playlists": {
+                "playlists": [{
+                        "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                        "playlist_name": "Darty Vibes"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "playlist_name": "Chill Tunes"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                        "playlist_name": "Party Playlist"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "playlist_name": "Dance Mix"
+                    },
+                    {
+                        "image_link": "https://static.billboard.com/files/media/DaBaby-press-by-Sheldon-Kearse-bb3-2019-billboard-1548-768x433.jpg",
+                        "playlist_name": "Throwback Hits"
+                    }
+                ],
+                "favorites": [{
+                        "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                        "song_name": "Rockstar (feat. Roddy Ricch)",
+                        "listen_count": "22M"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "song_name": "VIBEZ",
+                        "listen_count": "18M"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                        "song_name": "Babysitter (feat. Offset)",
+                        "listen_count": "14M"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "song_name": "Bop",
+                        "listen_count": "17M"
+                    },
+                    {
+                        "image_link": "https://static.billboard.com/files/media/DaBaby-press-by-Sheldon-Kearse-bb3-2019-billboard-1548-768x433.jpg",
+                        "song_name": "City",
+                        "listen_count": "12M"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                        "song_name": "TOES",
+                        "listen_count": "20M"
+                    },
+                    {
+                        "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                        "song_name": "Suge",
+                        "listen_count": "18M"
+                    },
+                    {
+                        "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                        "song_name": "Blame It on Baby",
+                        "listen_count": "16M"
+                    },
+                    {
+                        "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                        "song_name": "SAD SH*T",
+                        "listen_count": "8M"
+                    },
+                    {
+                        "image_link": "https://static.billboard.com/files/media/dababy-South-Coast-Music-Group-2019-billboard-1548-1024x677.jpg",
+                        "song_name": "Billion Dollar Baby",
+                        "listen_count": "7M"
+                    }
+                ]
+            },
+            "user_tracks": [{
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "Rockstar (feat. Roddy Ricch)",
+                    "listen_count": "22M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "VIBEZ",
+                    "listen_count": "18M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                    "song_name": "Babysitter (feat. Offset)",
+                    "listen_count": "14M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "Bop",
+                    "listen_count": "17M"
+                },
+                {
+                    "image_link": "https://static.billboard.com/files/media/DaBaby-press-by-Sheldon-Kearse-bb3-2019-billboard-1548-768x433.jpg",
+                    "song_name": "City",
+                    "listen_count": "12M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/f/fd/DaBaby_-_Kirk.png",
+                    "song_name": "TOES",
+                    "listen_count": "20M"
+                },
+                {
+                    "image_link": "https://upload.wikimedia.org/wikipedia/en/9/98/Dababy_BabyOnBaby.jpg",
+                    "song_name": "Suge",
+                    "listen_count": "18M"
+                },
+                {
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "Blame It on Baby",
+                    "listen_count": "16M"
+                },
+                {
+                    "image_link": "https://pyxis.nymag.com/v1/imgs/a0c/94c/50205b986d1b86a03f90b2c49a5ee0d467-dababy.rsquare.w1200.jpg",
+                    "song_name": "SAD SH*T",
+                    "listen_count": "8M"
+                },
+                {
+                    "image_link": "https://static.billboard.com/files/media/dababy-South-Coast-Music-Group-2019-billboard-1548-1024x677.jpg",
+                    "song_name": "Billion Dollar Baby",
+                    "listen_count": "7M"
+                }
+            ]
+        }
+    }]
+}

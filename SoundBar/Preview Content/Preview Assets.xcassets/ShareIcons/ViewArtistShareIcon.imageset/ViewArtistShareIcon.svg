@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-ViewArtistShareIcon">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="ViewArtistShareIcon" clip-path="url(#clip-ViewArtistShareIcon)">
+    <g id="myprofile" transform="translate(-310.027 -757)">
+      <path id="Path_354" data-name="Path 354" d="M773.086,790.8l2.466-5.695h11.419l2.2,5.695v4.3H773.086Z" transform="translate(-448.559 -6.12)" fill="#fff"/>
+      <circle id="Ellipse_238" data-name="Ellipse 238" cx="5" cy="5" r="5" transform="translate(328.027 767)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

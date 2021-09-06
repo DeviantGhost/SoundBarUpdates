@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-SendMessageIcon">
+      <rect width="34" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="SendMessageIcon" clip-path="url(#clip-SendMessageIcon)">
+    <path id="Icon_awesome-arrow-up" data-name="Icon awesome-arrow-up" d="M1.536,12.275.672,11.41a.931.931,0,0,1,0-1.32L8.237,2.521a.931.931,0,0,1,1.32,0l7.566,7.566a.931.931,0,0,1,0,1.32l-.864.864a.936.936,0,0,1-1.336-.016L10.457,7.567V18.758a.932.932,0,0,1-.934.934H8.276a.932.932,0,0,1-.934-.934V7.567l-4.47,4.692a.929.929,0,0,1-1.336.016Z" transform="translate(8.103 6.253)" fill="#fff"/>
+  </g>
+</svg>

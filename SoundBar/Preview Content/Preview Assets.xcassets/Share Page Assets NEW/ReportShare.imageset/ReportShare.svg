@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-ReportShare">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="ReportShare" clip-path="url(#clip-ReportShare)">
+    <g id="Group_2024" data-name="Group 2024">
+      <g id="Group_2023" data-name="Group 2023">
+        <path id="Path_1555" data-name="Path 1555" d="M20,0A20,20,0,1,1,0,20,20,20,0,0,1,20,0Z" fill="#121212"/>
+      </g>
+    </g>
+    <path id="Icon_material-report" data-name="Icon material-report" d="M19.006,4.5h-8.5L4.5,10.505v8.5l6.005,6.005h8.5l6.005-6.005v-8.5Zm-4.25,16.3a1.481,1.481,0,1,1,1.481-1.481A1.478,1.478,0,0,1,14.756,20.8Zm1.14-4.9H13.616V9.058H15.9Z" transform="translate(5.5 5.5)" fill="#fff"/>
+  </g>
+</svg>

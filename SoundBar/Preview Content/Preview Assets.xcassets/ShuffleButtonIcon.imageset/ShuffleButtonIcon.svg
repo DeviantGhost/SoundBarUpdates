@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Shuffle">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Shuffle" clip-path="url(#clip-Shuffle)">
+    <g id="Group_2793" data-name="Group 2793" transform="translate(3 5.001)">
+      <path id="Path_1609" data-name="Path 1609" d="M-20374.613,18539.668h4.813l3.762,6.045,5.535.121" transform="translate(20374.613 -18538.033)" fill="none" stroke="gold" stroke-width="1"/>
+      <path id="Path_1610" data-name="Path 1610" d="M-20374.613,18546.1h4.5l1.977-2.961" transform="translate(20374.613 -18538.664)" fill="none" stroke="gold" stroke-width="1"/>
+      <path id="Path_1611" data-name="Path 1611" d="M-20365.9,18541.813l2.76-2.248h4.227" transform="translate(20373.025 -18538.01)" fill="none" stroke="gold" stroke-width="1"/>
+      <line id="Line_188" data-name="Line 188" x2="2.454" y2="1.636" transform="translate(11.544 -0.001)" fill="none" stroke="gold" stroke-width="1"/>
+      <line id="Line_190" data-name="Line 190" x2="2.454" y2="1.636" transform="translate(11.544 5.952)" fill="none" stroke="gold" stroke-width="1"/>
+      <line id="Line_189" data-name="Line 189" y1="1.636" x2="2.454" transform="translate(11.544 1.635)" fill="none" stroke="gold" stroke-width="1"/>
+      <line id="Line_191" data-name="Line 191" y1="1.636" x2="2.454" transform="translate(11.544 7.588)" fill="none" stroke="gold" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="8" viewBox="0 0 8 8">
+  <defs>
+    <clipPath id="clip-SongProgressDot">
+      <rect width="8" height="8"/>
+    </clipPath>
+  </defs>
+  <g id="SongProgressDot" clip-path="url(#clip-SongProgressDot)">
+    <circle id="Ellipse_240" data-name="Ellipse 240" cx="4" cy="4" r="4" fill="#ffd442"/>
+  </g>
+</svg>

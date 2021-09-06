@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.349" y1="-0.417" x2="1.692" y2="1.495" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gold"/>
+      <stop offset="1" stop-color="#eb4545"/>
+    </linearGradient>
+    <clipPath id="clip-LikeButton_41">
+      <rect width="51" height="51"/>
+    </clipPath>
+  </defs>
+  <g id="LikeButton_41" data-name="LikeButton – 41" clip-path="url(#clip-LikeButton_41)">
+    <path id="Icon_awesome-fire" data-name="Icon awesome-fire" d="M20.745,2.292A2.309,2.309,0,0,0,16.5,1.039C4.61,18.426,21.514,19.209,21.514,27.66A6.147,6.147,0,1,1,9.22,27.569V19.356a2.305,2.305,0,0,0-3.979-1.585A19.2,19.2,0,0,0,0,30.734a18.44,18.44,0,0,0,36.88,0C36.88,14.379,20.745,12.2,20.745,2.292Z" transform="translate(7.061 1)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

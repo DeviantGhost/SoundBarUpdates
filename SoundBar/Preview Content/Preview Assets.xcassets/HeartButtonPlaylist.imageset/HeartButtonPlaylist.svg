@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-ShuffleButton_1">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="ShuffleButton_1" data-name="ShuffleButton – 1" clip-path="url(#clip-ShuffleButton_1)">
+    <path id="Icon_feather-heart" data-name="Icon feather-heart" d="M24.212,6.326a6.241,6.241,0,0,0-8.828,0l-1.2,1.2-1.2-1.2a6.242,6.242,0,1,0-8.828,8.828l1.2,1.2,8.828,8.828,8.828-8.828,1.2-1.2a6.241,6.241,0,0,0,0-8.828Z" transform="translate(1.291 0.813)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

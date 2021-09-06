@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MoreShareIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MoreShareIcon" clip-path="url(#clip-MoreShareIcon)">
+    <g id="Icon_feather-share" data-name="Icon feather-share" transform="translate(1 -1)">
+      <path id="Path_1653" data-name="Path 1653" d="M6,18v5.824c0,.8.9,1.456,2,1.456H20c1.1,0,2-.652,2-1.456V18" transform="translate(0 -1.979)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1654" data-name="Path 1654" d="M19.589,6.794,15.794,3,12,6.794" transform="translate(-1.794 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_1655" data-name="Path 1655" d="M18,3v9.807" transform="translate(-4 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

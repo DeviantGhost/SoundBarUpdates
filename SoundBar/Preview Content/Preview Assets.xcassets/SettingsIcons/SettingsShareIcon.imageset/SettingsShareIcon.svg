@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-SettingsShareIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="SettingsShareIcon" clip-path="url(#clip-SettingsShareIcon)">
+    <g id="Group_2970" data-name="Group 2970" transform="translate(-189.074 -674.799)">
+      <g id="Rectangle_6553" data-name="Rectangle 6553" transform="translate(189.449 678.348)" fill="none" stroke="#fff" stroke-width="2">
+        <rect width="14.25" height="11" rx="3" stroke="none"/>
+        <rect x="1" y="1" width="12.25" height="9" rx="2" fill="none"/>
+      </g>
+      <path id="Path_1656" data-name="Path 1656" d="M0,6.762V0" transform="translate(196.791 675.413)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_206" data-name="Line 206" x1="2.313" y1="2.028" transform="translate(196.324 675.299)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_285" data-name="Line 285" x1="2.313" y2="2.028" transform="translate(194.974 675.299)" fill="none" stroke="#fff" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

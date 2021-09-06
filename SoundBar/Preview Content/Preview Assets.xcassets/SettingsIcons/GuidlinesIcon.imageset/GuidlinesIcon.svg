@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Ellipse_293" x="-8" y="-2" width="28" height="28" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_294" x="-4" y="-5" width="26" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_295" x="-1" y="1" width="24" height="24" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-GuidlinesIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="GuidlinesIcon" clip-path="url(#clip-GuidlinesIcon)">
+    <g id="CommunityGuidelinesIcon" transform="translate(-20 -612)">
+      <g transform="matrix(1, 0, 0, 1, 20, 612)" filter="url(#Ellipse_293)">
+        <g id="Ellipse_293-2" data-name="Ellipse 293" transform="translate(1 4)" fill="none" stroke="#fff" stroke-width="1.25">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.375" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 612)" filter="url(#Ellipse_294)">
+        <g id="Ellipse_294-2" data-name="Ellipse 294" transform="translate(5 1)" fill="none" stroke="#fff" stroke-width="1.25">
+          <circle cx="4" cy="4" r="4" stroke="none"/>
+          <circle cx="4" cy="4" r="3.375" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 612)" filter="url(#Ellipse_295)">
+        <g id="Ellipse_295-2" data-name="Ellipse 295" transform="translate(8 7)" fill="none" stroke="#fff" stroke-width="1.25">
+          <circle cx="3" cy="3" r="3" stroke="none"/>
+          <circle cx="3" cy="3" r="2.375" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

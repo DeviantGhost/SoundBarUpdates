@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-BackButtonSmall">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="BackButtonSmall" clip-path="url(#clip-BackButtonSmall)">
+    <circle id="Ellipse_239" data-name="Ellipse 239" cx="20" cy="20" r="20" fill="#404040" opacity="0.498"/>
+    <g id="Group_2789" data-name="Group 2789" transform="translate(-21.162 9.393) rotate(-45)">
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="2.224" height="14.086" rx="1" transform="translate(15 30.741)" fill="#fff"/>
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="2.224" height="14.827" rx="1" transform="translate(29.827 30) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

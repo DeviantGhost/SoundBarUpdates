@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Rectangle_2356" x="-8" y="-6" width="32" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-TermsIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="TermsIcon" clip-path="url(#clip-TermsIcon)">
+    <g id="TermsOfUseIcon" transform="translate(-19 -569)">
+      <g transform="matrix(1, 0, 0, 1, 19, 569)" filter="url(#Rectangle_2356)">
+        <rect id="Rectangle_2356-2" data-name="Rectangle 2356" width="14" height="15" rx="2" transform="translate(1)" fill="#fff"/>
+      </g>
+      <line id="Line_101" data-name="Line 101" x2="9" transform="translate(22.5 572.5)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_102" data-name="Line 102" x2="9" transform="translate(22.5 574.5)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

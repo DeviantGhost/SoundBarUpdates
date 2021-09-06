@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Ellipse_292" x="-8" y="-6" width="32" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="-4" y="-4" width="24" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-HelpCenterIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="HelpCenterIcon" clip-path="url(#clip-HelpCenterIcon)">
+    <g id="HelpCenterIcon-2" data-name="HelpCenterIcon" transform="translate(-19 -447)">
+      <g transform="matrix(1, 0, 0, 1, 19, 447)" filter="url(#Ellipse_292)">
+        <ellipse id="Ellipse_292-2" data-name="Ellipse 292" cx="7" cy="7.5" rx="7" ry="7.5" transform="translate(1)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 19, 447)" filter="url(#_)">
+        <text id="_2" data-name="?" transform="translate(5 11)" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">?</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

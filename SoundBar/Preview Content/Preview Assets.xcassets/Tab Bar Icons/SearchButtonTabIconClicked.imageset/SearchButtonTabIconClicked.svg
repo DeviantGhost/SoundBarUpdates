@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-SearchButtonTabIconClicked">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="SearchButtonTabIconClicked" clip-path="url(#clip-SearchButtonTabIconClicked)">
+    <g id="Group_2" data-name="Group 2" transform="translate(3.278 3.675)">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1 0.603)" fill="none" stroke="gold" stroke-width="2">
+        <circle cx="9.139" cy="9.139" r="9.139" stroke="none"/>
+        <circle cx="9.139" cy="9.139" r="8.139" fill="none"/>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="9.432" height="1.524" rx="0.762" transform="translate(15.775 14.3) rotate(45)" fill="gold"/>
+    </g>
+  </g>
+</svg>

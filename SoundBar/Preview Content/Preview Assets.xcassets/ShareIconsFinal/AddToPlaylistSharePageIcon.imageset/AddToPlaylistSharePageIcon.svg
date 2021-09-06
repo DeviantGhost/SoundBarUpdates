@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-AddToPlaylistSharePageIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="AddToPlaylistSharePageIcon" clip-path="url(#clip-AddToPlaylistSharePageIcon)">
+    <g id="Group_3112" data-name="Group 3112" transform="translate(-3.048 -3.033)">
+      <rect id="Rectangle_6667" data-name="Rectangle 6667" width="14.632" height="1" transform="translate(10 13)" fill="#fff"/>
+      <rect id="Rectangle_6668" data-name="Rectangle 6668" width="7.316" height="1" transform="translate(10 17.682)" fill="#fff"/>
+      <rect id="Rectangle_6669" data-name="Rectangle 6669" width="8.779" height="1" transform="translate(10 22.364)" fill="#fff"/>
+      <rect id="Rectangle_6670" data-name="Rectangle 6670" width="6.145" height="0.702" transform="translate(19.95 18.648)" fill="#fff"/>
+      <rect id="Rectangle_6671" data-name="Rectangle 6671" width="6.145" height="0.702" transform="translate(23.374 15.926) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-InboxButtonTabIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="InboxButtonTabIcon" clip-path="url(#clip-InboxButtonTabIcon)">
+    <path id="ic_notifications_24px" d="M13.58,25.852a2.4,2.4,0,0,0,2.4-2.4h-4.79A2.394,2.394,0,0,0,13.58,25.852Zm7.185-7.185V12.679c0-3.676-1.964-6.754-5.389-7.568V4.3a1.8,1.8,0,0,0-3.593,0v.814C8.347,5.925,6.4,8.991,6.4,12.679v5.988L4,21.062v1.2H23.16v-1.2Z" transform="translate(2.315 1.5)" fill="#fff"/>
+  </g>
+</svg>

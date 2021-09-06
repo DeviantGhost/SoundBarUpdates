@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="35" viewBox="0 0 50 35">
+  <defs>
+    <clipPath id="clip-DownPageButton">
+      <rect width="50" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="DownPageButton" clip-path="url(#clip-DownPageButton)">
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M-735.885-1174H-737l14.5-9,14.5,9h-1.113l-13.385-8.307L-735.885-1174Z" transform="translate(-697.003 -1161) rotate(180)" fill="#fff"/>
+  </g>
+</svg>

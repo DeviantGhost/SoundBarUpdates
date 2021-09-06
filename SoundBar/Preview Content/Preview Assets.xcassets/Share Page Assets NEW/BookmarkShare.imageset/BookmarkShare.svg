@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-BookmarkShare">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="BookmarkShare" clip-path="url(#clip-BookmarkShare)">
+    <g id="Group_2628" data-name="Group 2628" transform="translate(-65 -576)">
+      <g id="Group_2625" data-name="Group 2625" transform="translate(65 576)">
+        <g id="Group_2181" data-name="Group 2181">
+          <g id="Group_2022" data-name="Group 2022">
+            <circle id="Ellipse_304" data-name="Ellipse 304" cx="20" cy="20" r="20" fill="#121212"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_641" data-name="Path 641" d="M21.571,6H11.929A2,2,0,0,0,10.01,8.082L10,24.736l6.75-3.123,6.75,3.123V8.082A2.009,2.009,0,0,0,21.571,6Zm0,15.613L16.75,19.349l-4.821,2.264V8.082h9.643Z" transform="translate(68 580.999)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

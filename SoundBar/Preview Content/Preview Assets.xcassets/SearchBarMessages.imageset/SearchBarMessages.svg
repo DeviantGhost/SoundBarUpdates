@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="283" height="49" viewBox="0 0 283 49">
+  <defs>
+    <clipPath id="clip-SearchBarMessages">
+      <rect width="283" height="49"/>
+    </clipPath>
+  </defs>
+  <g id="SearchBarMessages" clip-path="url(#clip-SearchBarMessages)">
+    <g id="Group_2826" data-name="Group 2826" transform="translate(-5 -7)">
+      <g id="Group_2818" data-name="Group 2818" transform="translate(10 12.999)">
+        <g id="searchbar" transform="translate(0 0)">
+          <rect id="Rectangle_1534" data-name="Rectangle 1534" width="273.027" height="37.812" rx="10" fill="#4e4e4e"/>
+        </g>
+      </g>
+      <g id="Group_2823" data-name="Group 2823" transform="translate(10 13.027)">
+        <g id="searchbar-2" data-name="searchbar">
+          <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="35.16" height="37.812" rx="10" fill="gold"/>
+        </g>
+      </g>
+      <g id="Group_2824" data-name="Group 2824" transform="translate(23.309 13.027)">
+        <g id="searchbar-3" data-name="searchbar">
+          <rect id="Rectangle_1534-3" data-name="Rectangle 1534" width="30.235" height="37.812" rx="10" fill="#4e4e4e"/>
+        </g>
+      </g>
+      <line id="Line_187" data-name="Line 187" x2="18" y2="18" transform="translate(252.318 22.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_188" data-name="Line 188" x2="18" y2="18" transform="translate(270.318 22.5) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

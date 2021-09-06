@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Ellipse_298" x="-7" y="-5" width="29" height="32" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2366" x="-8" y="6" width="31" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_299" x="-3" y="5" width="21" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2367" x="-3" y="5" width="21" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2365" x="-8" y="3" width="31" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-NotificationsIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="NotificationsIcon" clip-path="url(#clip-NotificationsIcon)">
+    <g id="PushNotificationsIcon" transform="translate(-20 -329)">
+      <g transform="matrix(1, 0, 0, 1, 20, 329)" filter="url(#Ellipse_298)">
+        <ellipse id="Ellipse_298-2" data-name="Ellipse 298" cx="5.5" cy="7" rx="5.5" ry="7" transform="translate(2 1)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 329)" filter="url(#Rectangle_2366)">
+        <rect id="Rectangle_2366-2" data-name="Rectangle 2366" width="13" height="3" transform="translate(1 12)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 329)" filter="url(#Ellipse_299)">
+        <circle id="Ellipse_299-2" data-name="Ellipse 299" cx="1.5" cy="1.5" r="1.5" transform="translate(6 11)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 329)" filter="url(#Rectangle_2367)">
+        <rect id="Rectangle_2367-2" data-name="Rectangle 2367" width="3" height="2" transform="translate(6 11)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 20, 329)" filter="url(#Rectangle_2365)">
+        <rect id="Rectangle_2365-2" data-name="Rectangle 2365" width="13" height="3" rx="1" transform="translate(1 9)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

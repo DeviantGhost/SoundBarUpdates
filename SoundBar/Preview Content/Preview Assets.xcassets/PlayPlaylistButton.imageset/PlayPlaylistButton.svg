@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <clipPath id="clip-PlayPlaylistButton">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="PlayPlaylistButton" clip-path="url(#clip-PlayPlaylistButton)">
+    <g id="Ellipse_458" data-name="Ellipse 458" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <path id="Polygon_66" data-name="Polygon 66" d="M3.5,0,7,7H0Z" transform="translate(12 4) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

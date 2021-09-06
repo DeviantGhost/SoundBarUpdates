@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-BackCropSong">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="BackCropSong" clip-path="url(#clip-BackCropSong)">
+    <g id="Group_2888" data-name="Group 2888" transform="translate(2 2)">
+      <g id="Ellipse_464" data-name="Ellipse 464" transform="translate(4 4)" fill="none" stroke="#000" stroke-width="1">
+        <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+        <circle cx="19.5" cy="19.5" r="19" fill="none"/>
+      </g>
+      <g id="Group_2887" data-name="Group 2887" transform="translate(-279.428 -508.75)">
+        <path id="Polygon_68" data-name="Polygon 68" d="M9.5,0,19,14H0Z" transform="translate(296.428 542) rotate(-90)"/>
+        <rect id="Rectangle_4100" data-name="Rectangle 4100" width="2" height="19" transform="translate(295.428 522.75)"/>
+      </g>
+    </g>
+  </g>
+</svg>

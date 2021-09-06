@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MessageSharePageIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MessageSharePageIcon" clip-path="url(#clip-MessageSharePageIcon)">
+    <g id="Group_2186" data-name="Group 2186" transform="translate(8 8)">
+      <path id="Icon_awesome-paper-plane" data-name="Icon awesome-paper-plane" d="M12.314.081.324,7A.621.621,0,0,0,.381,8.116L3.13,9.27l7.432-6.55a.155.155,0,0,1,.222.215L4.553,10.527v2.082a.621.621,0,0,0,1.1.409l1.643-2,3.223,1.35a.623.623,0,0,0,.854-.471L13.235.723A.621.621,0,0,0,12.314.081Z" transform="translate(-0.001 0.002)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-CancelSearchX">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="CancelSearchX" clip-path="url(#clip-CancelSearchX)">
+    <g id="Group_2927" data-name="Group 2927" transform="translate(31.284 -43.669) rotate(45)">
+      <rect id="Rectangle_6597" data-name="Rectangle 6597" width="0.5" height="10" transform="translate(22.75 48)" fill="#fff"/>
+      <rect id="Rectangle_6598" data-name="Rectangle 6598" width="0.5" height="10" transform="translate(28 52.75) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

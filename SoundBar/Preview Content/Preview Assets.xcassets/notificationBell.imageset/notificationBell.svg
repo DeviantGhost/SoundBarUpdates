@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-LikeButton_22">
+      <rect width="33" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="LikeButton_22" data-name="LikeButton – 22" clip-path="url(#clip-LikeButton_22)">
+    <g id="Group_902" data-name="Group 902" transform="translate(-328 -46)">
+      <path id="Icon_awesome-bell" data-name="Icon awesome-bell" d="M12.61,28.822a3.6,3.6,0,0,0,3.6-3.6h-7.2A3.6,3.6,0,0,0,12.61,28.822Zm12.125-8.428c-1.088-1.169-3.123-2.927-3.123-8.685a8.89,8.89,0,0,0-7.2-8.734V1.8a1.8,1.8,0,1,0-3.6,0V2.975a8.89,8.89,0,0,0-7.2,8.734c0,5.759-2.035,7.517-3.123,8.685A1.759,1.759,0,0,0,0,21.617a1.8,1.8,0,0,0,1.807,1.8H23.412a1.8,1.8,0,0,0,1.807-1.8,1.758,1.758,0,0,0-.485-1.222Z" transform="translate(331.75 48)" fill="#fed700"/>
+    </g>
+  </g>
+</svg>

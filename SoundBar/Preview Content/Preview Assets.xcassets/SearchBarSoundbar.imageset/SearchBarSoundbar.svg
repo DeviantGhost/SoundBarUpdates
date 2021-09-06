@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="323" height="49" viewBox="0 0 323 49">
+  <defs>
+    <clipPath id="clip-SearchBarSoundbar">
+      <rect width="323" height="49"/>
+    </clipPath>
+  </defs>
+  <g id="SearchBarSoundbar" clip-path="url(#clip-SearchBarSoundbar)">
+    <g id="Group_2826" data-name="Group 2826" transform="translate(-6 -7)">
+      <g id="Group_2818" data-name="Group 2818" transform="translate(3 -134.33)">
+        <g id="searchbar" transform="translate(7 147.302)">
+          <rect id="Rectangle_1534" data-name="Rectangle 1534" width="315.209" height="37.812" rx="10" transform="translate(0 0.027)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_2823" data-name="Group 2823" transform="translate(3 -134.303)">
+        <g id="searchbar-2" data-name="searchbar" transform="translate(7 147.33)">
+          <rect id="Rectangle_1534-2" data-name="Rectangle 1534" width="35.16" height="37.812" rx="10" fill="gold"/>
+        </g>
+      </g>
+      <g id="Group_2824" data-name="Group 2824" transform="translate(19 -134.303)">
+        <g id="searchbar-3" data-name="searchbar" transform="translate(4.308 147.33)">
+          <rect id="Rectangle_1534-3" data-name="Rectangle 1534" width="30.235" height="37.812" rx="10" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_187" data-name="Line 187" x2="18" y2="18" transform="translate(294.5 22.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_188" data-name="Line 188" x2="18" y2="18" transform="translate(312.5 22.5) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <path id="Icon_ionic-ios-add-circle" data-name="Icon ionic-ios-add-circle" d="M12.77,0A12.77,12.77,0,1,0,25.54,12.77,12.768,12.768,0,0,0,12.77,0Zm5.556,13.752H13.752v4.574a.982.982,0,0,1-1.965,0V13.752H7.214a.982.982,0,0,1,0-1.965h4.574V7.214a.982.982,0,0,1,1.965,0v4.574h4.574a.982.982,0,0,1,0,1.965Z" transform="translate(301.15 7) rotate(45)" fill="#404040" opacity="0.5"/>
+  </g>
+</svg>

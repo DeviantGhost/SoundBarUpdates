@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="78" viewBox="0 0 79 78">
+  <defs>
+    <clipPath id="clip-CameraRollImage">
+      <rect width="79" height="78"/>
+    </clipPath>
+  </defs>
+  <g id="CameraRollImage" clip-path="url(#clip-CameraRollImage)">
+    <path id="Icon_material-camera" data-name="Icon material-camera" d="M23.872,26.974l13.454-23.3A29.067,29.067,0,0,0,31.205,3,28.16,28.16,0,0,0,13.379,9.346L23.7,27.256Zm34.241-4.231A28.275,28.275,0,0,0,41.19,4.862L30.867,22.744H58.113Zm.733,2.821H37.72l.818,1.41L51.964,50.243A27.953,27.953,0,0,0,59.41,31.205,28.554,28.554,0,0,0,58.846,25.564Zm-37.4,5.641-11-19.038A28.086,28.086,0,0,0,3,31.205a28.554,28.554,0,0,0,.564,5.641H24.69ZM4.3,39.667A28.275,28.275,0,0,0,21.22,57.548L31.543,39.667H4.3Zm31.787,0-11,19.067a29.067,29.067,0,0,0,6.12.677,28.16,28.16,0,0,0,17.826-6.346L38.708,35.154l-2.623,4.513Z" transform="translate(9 8.092)" fill="#fff"/>
+  </g>
+</svg>

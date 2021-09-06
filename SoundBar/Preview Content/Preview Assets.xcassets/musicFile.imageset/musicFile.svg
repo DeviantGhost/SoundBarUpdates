@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-musicFile">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="musicFile" clip-path="url(#clip-musicFile)">
+    <path id="Icon_awesome-file-medical-alt" data-name="Icon awesome-file-medical-alt" d="M17.408,8.22V0H5.319A1.447,1.447,0,0,0,3.868,1.451V15.474H.484A.485.485,0,0,0,0,15.957v.967a.485.485,0,0,0,.484.484H9a.493.493,0,0,1,.435.266l1.2,2.406,3.433-6.872a.483.483,0,0,1,.864,0l2.1,4.2h4.243a.967.967,0,0,1,0,1.934H15.842L14.507,16.67l-3.433,6.872a.483.483,0,0,1-.864,0l-2.1-4.2H3.868V29.5a1.447,1.447,0,0,0,1.451,1.451H25.628A1.447,1.447,0,0,0,27.079,29.5V9.671h-8.22A1.455,1.455,0,0,1,17.408,8.22Zm9.248-1.874L20.738.423A1.45,1.45,0,0,0,19.711,0h-.369V7.737h7.737V7.368A1.446,1.446,0,0,0,26.656,6.347Z" transform="translate(6 5)" fill="#fff"/>
+  </g>
+</svg>

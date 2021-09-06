@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Union_32" x="-8" y="-5.306" width="32" height="32.305" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-ContactIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="ContactIcon" clip-path="url(#clip-ContactIcon)">
+    <g id="ContactUsIcon" transform="translate(-18 -492)">
+      <g transform="matrix(1, 0, 0, 1, 18, 492)" filter="url(#Union_32)">
+        <path id="Union_32-2" data-name="Union 32" d="M-3551-2191.694c0-1.657.867-1.73,3-3a1.573,1.573,0,0,1,2.446.64l3.476-3.476a2.992,2.992,0,0,1-.922-2.164c0-1.657,1.512-1.815,3-3s3,1.343,3,3a2.99,2.99,0,0,1-.744,1.978l.047.047-7.778,7.779-.074-.074a3,3,0,0,1-2.451,1.27A3,3,0,0,1-3551-2191.694Z" transform="translate(3552 2203.69)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-MoreIconCircles">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="MoreIconCircles" clip-path="url(#clip-MoreIconCircles)">
+    <g id="Group_2947" data-name="Group 2947" transform="translate(-6 26.942) rotate(-90)">
+      <circle id="Ellipse_311" data-name="Ellipse 311" cx="16.5" cy="16.5" r="16.5" transform="translate(-0.058)" fill="none" opacity="0.5"/>
+    </g>
+    <g id="Group_2969" data-name="Group 2969">
+      <circle id="Ellipse_496" data-name="Ellipse 496" cx="1" cy="1" r="1" transform="translate(4 9)" fill="#fff"/>
+      <circle id="Ellipse_497" data-name="Ellipse 497" cx="1" cy="1" r="1" transform="translate(9 9)" fill="#fff"/>
+      <circle id="Ellipse_498" data-name="Ellipse 498" cx="1" cy="1" r="1" transform="translate(14 9)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

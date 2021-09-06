@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-LikeButton_26">
+      <rect width="33" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="LikeButton_26" data-name="LikeButton – 26" clip-path="url(#clip-LikeButton_26)">
+    <g id="Group_2" data-name="Group 2" transform="translate(2 1)">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(3 1)" fill="none" stroke="#ffd442" stroke-width="2">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9" fill="none"/>
+      </g>
+      <g id="Rectangle_8" data-name="Rectangle 8" transform="matrix(0.574, 0.819, -0.819, 0.574, 18.38, 17.745)" fill="#fff" stroke="#ffd442" stroke-width="1">
+        <rect width="15" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="14" height="1" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <clipPath id="clip-PlayButton">
+      <rect width="65" height="65"/>
+    </clipPath>
+  </defs>
+  <g id="PlayButton" clip-path="url(#clip-PlayButton)">
+    <circle id="Ellipse_239" data-name="Ellipse 239" cx="32.5" cy="32.5" r="32.5" fill="#404040" opacity="0.498"/>
+    <path id="Polygon_6" data-name="Polygon 6" d="M15,0,30,26H0Z" transform="translate(49 18) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

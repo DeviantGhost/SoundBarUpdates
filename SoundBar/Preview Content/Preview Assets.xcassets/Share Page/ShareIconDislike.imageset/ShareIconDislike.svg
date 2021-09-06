@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-ShareIconDislike">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="ShareIconDislike" clip-path="url(#clip-ShareIconDislike)">
+    <g id="Icon_ionic-ios-heart-dislike" data-name="Icon ionic-ios-heart-dislike" transform="translate(10.5 10.5)">
+      <path id="Path_671" data-name="Path 671" d="M40.109,39.951,4.6,4.689a1.365,1.365,0,0,0-1.942.01,1.391,1.391,0,0,0,0,1.95L38.167,41.911a1.353,1.353,0,0,0,1.324.351,1.336,1.336,0,0,0,.618-.361A1.374,1.374,0,0,0,40.109,39.951Z" transform="translate(-2.255 -3.8)" fill="#fff"/>
+      <g id="Group_2020" data-name="Group 2020" transform="translate(0.775)">
+        <path id="Path_672" data-name="Path 672" d="M4.5,12.71A23.626,23.626,0,0,0,9.08,25.7c5.892,8.055,15.777,15.1,15.777,15.1s2.868-1.987,6.43-5.05L4.891,9.773A11.186,11.186,0,0,0,4.5,12.71Z" transform="translate(-4.5 -1.799)" fill="#fff"/>
+        <path id="Path_673" data-name="Path 673" d="M39.3,27.984A23.64,23.64,0,0,0,43.724,15,11,11,0,0,0,32.907,3.937h-.1a10.956,10.956,0,0,0-9.175,5.089A10.956,10.956,0,0,0,14.46,3.937h-.1A10.826,10.826,0,0,0,7.052,6.874L34.279,34.023A48.734,48.734,0,0,0,39.3,27.984Z" transform="translate(-3.5 -3.937)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-MessagesLibraryIcon">
+      <rect width="34" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="MessagesLibraryIcon" clip-path="url(#clip-MessagesLibraryIcon)">
+    <g id="Group_2881" data-name="Group 2881" transform="translate(-57.5 -84.103)">
+      <line id="Line_217" data-name="Line 217" y2="23.5" transform="translate(65.5 89.103)" fill="none" stroke="#fed700" stroke-width="3"/>
+      <line id="Line_218" data-name="Line 218" y2="23.5" transform="translate(72.864 89.103)" fill="none" stroke="#fed700" stroke-width="3"/>
+      <line id="Line_219" data-name="Line 219" x2="4.681" y2="23.5" transform="translate(78.819 89.103)" fill="none" stroke="#fed700" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

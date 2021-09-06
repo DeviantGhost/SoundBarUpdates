@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-removeSongIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="removeSongIcon" clip-path="url(#clip-removeSongIcon)">
+    <line id="Line_287" data-name="Line 287" x2="16" transform="translate(7.5 15.5)" fill="none" stroke="#d10000" stroke-width="2"/>
+  </g>
+</svg>

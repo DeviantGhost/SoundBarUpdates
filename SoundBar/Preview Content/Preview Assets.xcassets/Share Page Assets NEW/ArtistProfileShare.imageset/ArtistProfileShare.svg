@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-ArtistProfileShare">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="ArtistProfileShare" clip-path="url(#clip-ArtistProfileShare)">
+    <g id="Group_2799" data-name="Group 2799" transform="translate(-89 -475)">
+      <g id="Group_2626" data-name="Group 2626" transform="translate(89 475)">
+        <g id="Group_2181" data-name="Group 2181">
+          <g id="Group_2022" data-name="Group 2022">
+            <circle id="Ellipse_304" data-name="Ellipse 304" cx="20" cy="20" r="20" fill="#121212"/>
+          </g>
+        </g>
+      </g>
+      <g id="myprofile" transform="translate(-224.027 -284)">
+        <path id="Path_354" data-name="Path 354" d="M773.086,791.151l2.615-6.041h12.112l2.336,6.041v4.566H773.086Z" transform="translate(-449.059 -5.452)" fill="#fff"/>
+        <ellipse id="Ellipse_238" data-name="Ellipse 238" cx="5" cy="5.5" rx="5" ry="5.5" transform="translate(328 768)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

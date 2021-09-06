@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-FollowBackButton">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="FollowBackButton" clip-path="url(#clip-FollowBackButton)">
+    <g id="Group_2262" data-name="Group 2262" transform="translate(-2.479 0.745)">
+      <line id="Line_235" data-name="Line 235" y2="7.82" transform="translate(19.505 8.255) rotate(40)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_236" data-name="Line 236" y2="7.82" transform="translate(19.505 19.979) rotate(140)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

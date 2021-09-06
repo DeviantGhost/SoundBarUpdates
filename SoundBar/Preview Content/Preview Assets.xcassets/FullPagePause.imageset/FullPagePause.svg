@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="33" viewBox="0 0 32 33">
+  <defs>
+    <clipPath id="clip-FullPagePause">
+      <rect width="32" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="FullPagePause" clip-path="url(#clip-FullPagePause)">
+    <rect id="Rectangle_2804" data-name="Rectangle 2804" width="11" height="30" transform="translate(2.5 1.5)" fill="#fff"/>
+    <rect id="Rectangle_2805" data-name="Rectangle 2805" width="11" height="30" transform="translate(18.5 1.5)" fill="#fff"/>
+  </g>
+</svg>

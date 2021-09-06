@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <clipPath id="clip-LikeButton_30">
+      <rect width="10" height="10"/>
+    </clipPath>
+  </defs>
+  <g id="LikeButton_30" data-name="LikeButton – 30" clip-path="url(#clip-LikeButton_30)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="3.5" cy="3.5" r="3.5" transform="translate(1.5 1.5)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-RepostSharePageIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="RepostSharePageIcon" clip-path="url(#clip-RepostSharePageIcon)">
+    <g id="exchange" transform="translate(7.279 8.069)">
+      <g id="Group_3083" data-name="Group 3083" transform="translate(0)">
+        <path id="Path_1664" data-name="Path 1664" d="M14.48,231.754a1.448,1.448,0,0,1-1.448,1.448H1.65L3.556,231.3l-.682-.682-2.73,2.73a.483.483,0,0,0,0,.682l2.73,2.73.682-.682L1.65,234.167H13.032a2.416,2.416,0,0,0,2.413-2.413v-1.93H14.48Zm0,0" transform="translate(-0.003 -222.893)" fill="#fff"/>
+        <path id="Path_1665" data-name="Path 1665" d="M.965,5A1.448,1.448,0,0,1,2.413,3.554H13.794L11.888,5.46l.682.682,2.73-2.73a.483.483,0,0,0,0-.682L12.571,0l-.682.682,1.906,1.906H2.413A2.416,2.416,0,0,0,0,5v1.93H.965Zm0,0" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

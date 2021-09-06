@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-ShareIconReport">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="ShareIconReport" clip-path="url(#clip-ShareIconReport)">
+    <path id="Icon_material-report" data-name="Icon material-report" d="M32.477,4.5H16.082L4.5,16.082V32.477L16.082,44.059H32.477L44.059,32.477V16.082Zm-8.2,31.427a2.857,2.857,0,1,1,2.857-2.857A2.851,2.851,0,0,1,24.279,35.927Zm2.2-9.45h-4.4V13.291h4.4Z" transform="translate(5.5 5.5)" fill="#fff"/>
+  </g>
+</svg>

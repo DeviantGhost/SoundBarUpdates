@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-SearchLibraryIcon">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="SearchLibraryIcon" clip-path="url(#clip-SearchLibraryIcon)">
+    <g id="Group_2939" data-name="Group 2939" transform="translate(1.914 1.914)">
+      <g id="Ellipse_491" data-name="Ellipse 491" transform="translate(7.086 7.086)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_6599" data-name="Rectangle 6599" width="1" height="5.367" transform="translate(19.223 18.68) rotate(135)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

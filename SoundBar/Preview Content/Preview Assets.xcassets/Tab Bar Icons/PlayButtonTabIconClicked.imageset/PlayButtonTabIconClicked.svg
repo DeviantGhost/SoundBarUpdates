@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-PlayButtonTabIconClicked">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="PlayButtonTabIconClicked" clip-path="url(#clip-PlayButtonTabIconClicked)">
+    <g id="NewAppIcon" transform="translate(-3.311 -2.751)">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="32" height="32" transform="translate(0.311 -0.249)" fill="none"/>
+      <g id="Group_2798" data-name="Group 2798" transform="translate(5.811 5.251)">
+        <circle id="Ellipse_241" data-name="Ellipse 241" cx="12.5" cy="12.5" r="12.5" fill="gold"/>
+        <path id="Path_1551" data-name="Path 1551" d="M106.984,86.67,95.69,93.26V80.08Z" transform="translate(-87.427 -74.17)"/>
+      </g>
+    </g>
+  </g>
+</svg>

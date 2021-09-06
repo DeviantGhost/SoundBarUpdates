@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-DislikeShare">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="DislikeShare" clip-path="url(#clip-DislikeShare)">
+    <g id="Group_2024" data-name="Group 2024">
+      <g id="Group_2023" data-name="Group 2023">
+        <path id="Path_1555" data-name="Path 1555" d="M20,0A20,20,0,1,1,0,20,20,20,0,0,1,20,0Z" fill="#121212"/>
+        <g id="Icon_ionic-ios-heart-dislike" data-name="Icon ionic-ios-heart-dislike" transform="translate(11 12)">
+          <path id="Path_671" data-name="Path 671" d="M19.386,20.285,3.315,4.468a.622.622,0,0,0-.879.879L18.507,21.164a.616.616,0,0,0,.6.157.606.606,0,0,0,.28-.162A.612.612,0,0,0,19.386,20.285Z" transform="translate(-2.255 -4.07)" fill="#fff"/>
+          <g id="Group_2020" data-name="Group 2020" transform="translate(0.346)">
+            <path id="Path_672" data-name="Path 672" d="M4.5,11.085a10.556,10.556,0,0,0,2.047,5.8A36.264,36.264,0,0,0,13.6,23.636s1.281-.888,2.873-2.256L4.675,9.773A5,5,0,0,0,4.5,11.085Z" transform="translate(-4.5 -6.144)" fill="#fff"/>
+            <path id="Path_673" data-name="Path 673" d="M21.654,14.682a10.47,10.47,0,0,0,2-5.8,4.944,4.944,0,0,0-4.9-4.942h-.044a4.976,4.976,0,0,0-4.154,2.274,4.976,4.976,0,0,0-4.154-2.274h-.044a4.937,4.937,0,0,0-3.31,1.312L19.38,17.38A21.844,21.844,0,0,0,21.654,14.682Z" transform="translate(-5.465 -3.938)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

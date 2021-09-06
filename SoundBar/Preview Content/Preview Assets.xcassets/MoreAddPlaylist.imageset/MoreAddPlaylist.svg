@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MoreAddPlaylist">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MoreAddPlaylist" clip-path="url(#clip-MoreAddPlaylist)">
+    <g id="Group_2971" data-name="Group 2971" transform="translate(6 10)">
+      <line id="Line_261" data-name="Line 261" x2="13.642" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_262" data-name="Line 262" x2="8.682" transform="translate(0 4.868)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_263" data-name="Line 263" y2="6.75" transform="translate(14.5 2.5)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_264" data-name="Line 264" x2="6.75" transform="translate(11.125 5.875)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_265" data-name="Line 265" x2="11.162" transform="translate(0 9.735)" fill="none" stroke="#fff" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

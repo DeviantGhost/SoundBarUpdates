@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="78" viewBox="0 0 79 78">
+  <defs>
+    <clipPath id="clip-DriveImage">
+      <rect width="79" height="78"/>
+    </clipPath>
+  </defs>
+  <g id="DriveImage" clip-path="url(#clip-DriveImage)">
+    <path id="Icon_awesome-google-drive" data-name="Icon awesome-google-drive" d="M42.685,37.871,22.086,2.25h20.3l20.6,35.621ZM25.372,40.843,15.223,58.66h39.1L64.469,40.843ZM19.4,6.707,0,40.843,10.149,58.66,29.842,24.512Z" transform="translate(8 8.842)" fill="#fff"/>
+  </g>
+</svg>

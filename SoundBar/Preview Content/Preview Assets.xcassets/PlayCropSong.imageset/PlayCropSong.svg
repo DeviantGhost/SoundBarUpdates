@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-PlayCropSong">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="PlayCropSong" clip-path="url(#clip-PlayCropSong)">
+    <g id="Group_2889" data-name="Group 2889">
+      <path id="Polygon_67" data-name="Polygon 67" d="M9.5,0,19,14H0Z" transform="translate(33 16) rotate(90)"/>
+      <g id="Ellipse_465" data-name="Ellipse 465" transform="translate(6 6)" fill="none" stroke="#000" stroke-width="1">
+        <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+        <circle cx="19.5" cy="19.5" r="19" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

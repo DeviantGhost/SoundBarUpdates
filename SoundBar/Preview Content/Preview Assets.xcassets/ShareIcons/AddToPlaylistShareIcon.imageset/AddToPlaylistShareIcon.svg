@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-AddToPlaylistShareIcon">
+      <rect width="45" height="45"/>
+    </clipPath>
+  </defs>
+  <g id="AddToPlaylistShareIcon" clip-path="url(#clip-AddToPlaylistShareIcon)">
+    <rect id="Rectangle_6667" data-name="Rectangle 6667" width="25" height="1.2" transform="translate(10 13)" fill="#fff"/>
+    <rect id="Rectangle_6668" data-name="Rectangle 6668" width="12.5" height="1.2" transform="translate(10 21)" fill="#fff"/>
+    <rect id="Rectangle_6669" data-name="Rectangle 6669" width="15" height="1.2" transform="translate(10 29)" fill="#fff"/>
+    <rect id="Rectangle_6670" data-name="Rectangle 6670" width="10.5" height="1.2" transform="translate(27 22.65)" fill="#fff"/>
+    <rect id="Rectangle_6671" data-name="Rectangle 6671" width="10.5" height="1.2" transform="translate(32.85 18) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

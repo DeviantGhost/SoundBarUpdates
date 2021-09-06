@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <filter id="Path_354" x="-6.972" y="2.439" width="30.352" height="25.678" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_238" x="-4" y="-6" width="25" height="25" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-AccountIcon">
+      <rect width="15" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="AccountIcon" clip-path="url(#clip-AccountIcon)">
+    <g id="AccountSettingsIcon" transform="translate(-18 -162)">
+      <g id="myprofile" transform="translate(-304 -606)">
+        <g transform="matrix(1, 0, 0, 1, 322, 768)" filter="url(#Path_354)">
+          <path id="Path_354-2" data-name="Path 354" d="M773.086,789.483l1.893-4.373h8.768l1.691,4.373v3.3H773.086Z" transform="translate(-771.06 -776.67)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 322, 768)" filter="url(#Ellipse_238)">
+          <circle id="Ellipse_238-2" data-name="Ellipse 238" cx="3.5" cy="3.5" r="3.5" transform="translate(5)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

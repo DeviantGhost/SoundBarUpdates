@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-MoreCirclesButton">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="MoreCirclesButton" clip-path="url(#clip-MoreCirclesButton)">
+    <circle id="Ellipse_499" data-name="Ellipse 499" cx="1.25" cy="1.25" r="1.25" transform="translate(7.75 13.75)" fill="#fff"/>
+    <circle id="Ellipse_500" data-name="Ellipse 500" cx="1.25" cy="1.25" r="1.25" transform="translate(13.75 13.75)" fill="#fff"/>
+    <circle id="Ellipse_501" data-name="Ellipse 501" cx="1.25" cy="1.25" r="1.25" transform="translate(19.75 13.75)" fill="#fff"/>
+  </g>
+</svg>

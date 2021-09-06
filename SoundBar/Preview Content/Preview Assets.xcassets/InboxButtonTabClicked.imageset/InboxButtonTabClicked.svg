@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-InboxButtonTabClicked">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="InboxButtonTabClicked" clip-path="url(#clip-InboxButtonTabClicked)">
+    <path id="Icon_awesome-inbox" data-name="Icon awesome-inbox" d="M24.65,12.309,20.063,5.428A2.083,2.083,0,0,0,18.329,4.5H6.671a2.083,2.083,0,0,0-1.733.928L.35,12.309A2.083,2.083,0,0,0,0,13.464v5.619a2.083,2.083,0,0,0,2.083,2.083H22.917A2.083,2.083,0,0,0,25,19.083V13.464a2.083,2.083,0,0,0-.35-1.156ZM7.042,7.278H17.958l3.7,5.556H16.319l-1.389,2.778H10.069L8.681,12.833H3.338l3.7-5.556Z" transform="translate(2.5 2.167)" fill="gold"/>
+  </g>
+</svg>

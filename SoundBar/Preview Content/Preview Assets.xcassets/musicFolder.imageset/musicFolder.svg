@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-musicFolder">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="musicFolder" clip-path="url(#clip-musicFolder)">
+    <path id="Icon_awesome-folder" data-name="Icon awesome-folder" d="M28.6,8.445H16.765L12.82,4.5H2.958A2.958,2.958,0,0,0,0,7.458V25.209a2.958,2.958,0,0,0,2.958,2.958H28.6a2.958,2.958,0,0,0,2.958-2.958V11.4A2.958,2.958,0,0,0,28.6,8.445Z" transform="translate(4 3.5)" fill="#fff"/>
+  </g>
+</svg>

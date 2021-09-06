@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-LibraryButtonTabIconClicked">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="LibraryButtonTabIconClicked" clip-path="url(#clip-LibraryButtonTabIconClicked)">
+    <g id="Group_2833" data-name="Group 2833" transform="translate(-318.518 -1206.578)">
+      <g id="Group_2881" data-name="Group 2881" transform="translate(259.918 1122.475)">
+        <line id="Line_217" data-name="Line 217" y2="21.844" transform="translate(65.5 89.103)" fill="none" stroke="gold" stroke-width="3"/>
+        <line id="Line_218" data-name="Line 218" y2="21.844" transform="translate(72.521 89.103)" fill="none" stroke="gold" stroke-width="3"/>
+        <line id="Line_219" data-name="Line 219" x2="4.681" y2="21.844" transform="translate(77.982 89.103)" fill="none" stroke="gold" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

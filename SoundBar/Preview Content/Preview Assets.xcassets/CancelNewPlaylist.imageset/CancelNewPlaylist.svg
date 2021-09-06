@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-CancelNewPlaylist">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="CancelNewPlaylist" clip-path="url(#clip-CancelNewPlaylist)">
+    <g id="Group_2927" data-name="Group 2927" transform="translate(36.213 -42.996) rotate(45)">
+      <rect id="Rectangle_6597" data-name="Rectangle 6597" width="0.801" height="16.019" transform="translate(25.609 48)" fill="#fff"/>
+      <rect id="Rectangle_6598" data-name="Rectangle 6598" width="0.801" height="16.019" transform="translate(34.019 55.609) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6659" data-name="Rectangle 6659" width="20" height="20" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-checkMarkIconYellow">
+      <rect width="30" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="checkMarkIconYellow" clip-path="url(#clip-checkMarkIconYellow)">
+    <g id="addCheckMarkIcon" transform="translate(5 5)" clip-path="url(#clip-path)">
+      <path id="Icon_feather-check" data-name="Icon feather-check" d="M15.955,9,9.111,15.844,6,12.733" transform="translate(-0.5 -2.5)" fill="none" stroke="#fed700" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

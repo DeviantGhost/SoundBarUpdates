@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-MessageIcon">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="MessageIcon" clip-path="url(#clip-MessageIcon)">
+    <path id="Icon_feather-message-square" data-name="Icon feather-message-square" d="M23.5,17.167a2.111,2.111,0,0,1-2.111,2.111H8.722L4.5,23.5V6.611A2.111,2.111,0,0,1,6.611,4.5H21.389A2.111,2.111,0,0,1,23.5,6.611Z" transform="translate(11 11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
